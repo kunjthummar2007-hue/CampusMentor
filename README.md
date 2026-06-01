@@ -7,7 +7,7 @@ A full-stack web application connecting junior students, senior mentors, and fac
 - **Backend:** Node.js + Express (deployed on Render.com)
 - **Database:** PostgreSQL (hosted on Neon.tech)
 
----
+-----
 
 ## 🚀 STEP-BY-STEP DEPLOYMENT GUIDE
 
