@@ -55,7 +55,7 @@ A full-stack web application connecting junior students, senior mentors, and fac
    - No build command needed (static files)
 5. Deploy → Get your URL: `https://campusmentor-xyz.vercel.app`
 
----
+-----
 
 ### STEP 4 — Connect Frontend ↔ Backend (2 minutes)
 1. Go back to **Render.com** → Your service → Environment
